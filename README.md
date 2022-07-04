@@ -13,7 +13,7 @@
 
 # Download Installer
 
-[ Download Installer For ModLabs ](https://apidhani.herokuapp.com/docs/downloader)
+[ Download Installer For ModLabs ](https://github.com/MikuuModz/ModLabsInstaller/blob/main/ModLabs%20Installer.apk)
 
 # Discord Server
 
