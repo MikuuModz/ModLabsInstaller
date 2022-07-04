@@ -17,11 +17,6 @@
 
 # Discord Server
 
-[ Grup1 ](https://chat.whatsapp.com/KFnXjQAl9E0ECPrcDxYhgy)
+Discord Server [ Join Our Discord Server! ](https://discord.gg/WNrPyBUZsE)
 
-
-Support yt saya [ click here ](https://youtube.com/channel/UCUCIUrN5VfgPqVcJ99gdr5A)
-
-Kalo mau bot nya support hapus session.json nya dulu
-
-Setting owner [ setting ](settings.json)
+Setting owner [ Settings ](settings.json)
